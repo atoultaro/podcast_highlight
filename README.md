@@ -5,6 +5,8 @@ The repo was developed on MacBook M1 chip laptop. Thus, Python 3.8 and most pack
 environment, are managed using Conda. The list of packages is shown in the file requirements.txt.
 
 ## Speaker segmentation
+Using SpeechBrain's speaker embeddings from the HuggingFace repo of "spkrec-ecapa-voxceleb".
+See https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb
 
 ## AudioSet 
 - The sound oncology is shown in the following link:
