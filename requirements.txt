@@ -1,0 +1,10 @@
+# Since I'm using Macbook with M1 chip instead of a Unix machine, I chose to use conda to install most fundamental packages.
+tensorflow==2.7.0
+tensorflow_hub==0.12.0
+numpy==1.22.3
+pandas==1.4.1
+matplotlib==3.5.1
+jupyter==1.0.0
+jupyterlab==3.3.2
+librosa==0.9.1
+
