@@ -1,7 +1,9 @@
-# Since I'm using Macbook with M1 chip instead of a Unix machine, I chose to use conda to install most fundamental packages.
+# Since I'm using Macbook with M1 chip instead of a Unix machine, I use conda to manage packages instead of Virtualenv.
 tensorflow==2.7.0
+sentence-transformers
 tensorflow_hub==0.12.0
-numpy==1.22.3
+transformers==4.16.2
+numpy==1.21.5
 pandas==1.4.1
 matplotlib==3.5.1
 jupyter==1.0.0
