@@ -1,4 +1,4 @@
-# Podcast highlight extraction for Sounder.fm
+# Podcast highlight extraction
 
 ## Installation
 The repo was developed on MacBook M1 chip laptop. Thus, Python 3.8 and most packages, as well as the virtual 
