@@ -25,6 +25,8 @@ https://research.google.com/audioset/ontology/index.html
 Download those two models for AudioSet from a directory within TensorFlow repo (Trick: DownGit)
 https://github.com/tensorflow/models/tree/master/research/audioset
 
-## Step 3: Find highlight through BERT embeddings
-
+## Step 3: Find highlight through the combination of sentence embedding (BERT embeddings) and music presence
+- Huggingface's sentence transformer
+https://huggingface.co/sentence-transformers/sentence-t5-large
+- Final score  = Alpha * Music Score (0 or 1) + (1 - Alpha) * Sentence similarity
 
